@@ -146,38 +146,6 @@ def home():
       </li>
     </ul>
   </div>
-  <div class="list-container">
-    <h2>Website D</h2>
-    <ul>
-      <li>
-        Article 1
-      </li>
-      <li>
-        Article 2
-      </li>
-      <li>
-        Article 3
-      </li>
-      <li>
-        Article 4
-      </li>
-      <li>
-        Article 5
-      </li>
-      <li>
-        Article 6
-      </li>
-    </ul>
-  </div>
-  <div class="list-container">
-    <h2>Website E</h2>
-    <ul>
-      <li>
-        Article 1
-      </li>
-
-    </ul>
-  </div>
   </lists>
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
